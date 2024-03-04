@@ -1,6 +1,8 @@
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
+
+// Finished
 public class LogginLab {
     private final static Logger logger = Logger.getLogger(LogginLab.class.getName());
 
